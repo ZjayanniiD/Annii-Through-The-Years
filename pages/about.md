@@ -11,7 +11,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid= col002 %}
-<img src="col002" width="700" height="1000"/>
+
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 
