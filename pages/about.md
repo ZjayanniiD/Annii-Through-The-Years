@@ -3,7 +3,8 @@ title: About
 layout: about
 permalink: /about.html
 
-# featured-image-position: top
+# change featured imagine position to top
+# change featured image size to 10 em
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
