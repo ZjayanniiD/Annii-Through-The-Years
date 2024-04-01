@@ -10,9 +10,6 @@ credits: true
 
 {% include featured image: col002%}
 
-{% about-banner-image-position: top %}
-
-
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
