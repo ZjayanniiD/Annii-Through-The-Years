@@ -8,7 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+featured-image: col002
+home-title-y-padding: 12em # Default is 8em
+# optional: change position of background image, center, top, bottom
+home-banner-image-position: top # Default is center
+
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
