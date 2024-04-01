@@ -9,9 +9,9 @@ credits: true
 ---
 
 featured-image: col002
-home-title-y-padding: 12em # Default is 8em
-# optional: change position of background image, center, top, bottom
-home-banner-image-position: top # Default is center
+about-title-y-padding: 12em 
+
+about-banner-image-position: top
 
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
