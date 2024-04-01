@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-featured-image-position: top
+# featured-image-position: top
 ## About the Collection
 
 This collection includes significant events in the high school journey if Jay Ann Castro. Also, a collection of pictures or videos of Jay Ann during competitions.
