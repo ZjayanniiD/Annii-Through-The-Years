@@ -8,10 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-featured-image: col002
-about-title-y-padding: 12em 
+{% include featured image: col002%}
 
-about-banner-image-position: top
+{% about-banner-image-position: top %}
 
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
