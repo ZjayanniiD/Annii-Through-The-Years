@@ -14,8 +14,6 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-<img src="Annii02.jpg"  width="150" height="100" /> 
-
 
 ## About the Collection
 
