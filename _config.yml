@@ -19,6 +19,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
 # SITE SETTINGS
 #
+# logo of site apears in banner in top position
+logo:   <a href="https://www.facebook.com/jayannn.cornitescastro" target="_blank" rel="noopener" title="Jay Ann Castro">
+                        <img src="{{ '/assets/img/Page-logo.png' | relative_url }}" class="img-fluid" alt="Logo" >
 # title of site appears in banner
 title: Annii's High School Journey
 # tagline, a short phrase that will appear throughout the site in the top banner
@@ -63,3 +66,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md,
 # compress CSS output
 sass:
   style: compressed
+  
