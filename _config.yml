@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # logo of site apears in banner
-logo: <img src="{{ '/assets/img/Page-logo.png' | relative_url }}" class="img-fluid" alt="Logo" >
+logo: '/assets/img/Page-logo.png' 
 # title of site appears in banner
 title: Annii's High School Journey
 # tagline, a short phrase that will appear throughout the site in the top banner
